@@ -1,0 +1,1 @@
+Private generated working data belongs here: state.json, manifest.json, questions.json, transcripts.raw.json, transcripts.reviewed.json, transcription_reviews.json, rubric.json, calibration.json, grades.json, grade_reviews.json, issues.json, and history/. See ../docs/data-contract.md. Everything here except this README is ignored by Git.

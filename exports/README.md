@@ -1,0 +1,1 @@
+Teacher-approved, versioned grade CSVs, feedback, change summaries, and exam-level analysis belong here. Keep anonymous test IDs in exports; match to names separately. Everything here except this README is ignored by Git.

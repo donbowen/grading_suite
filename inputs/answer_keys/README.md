@@ -1,0 +1,1 @@
+Put authoritative solutions here, clearly labeled by exam version. Include calculation details, acceptable alternatives, and bonus rules when available. A key answers the question; a rubric specifies how points are assigned.

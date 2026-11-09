@@ -1,0 +1,1 @@
+Optional: put your current scoring rubric here, labeled by version. If empty, the agent will draft one for your review with prompts/04_create_rubric.md. Preserve originals; approved working revisions belong in workspace/.

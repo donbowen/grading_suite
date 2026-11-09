@@ -1,0 +1,25 @@
+# Private exam inputs and derived records. Keep only skeleton instructions.
+/inputs/**
+!/inputs/**/
+!/inputs/**/README.md
+/workspace/**
+!/workspace/README.md
+/apps/**
+!/apps/README.md
+/exports/**
+!/exports/README.md
+# Secrets and local tooling
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.claude/
+.codex/

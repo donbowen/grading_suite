@@ -1,0 +1,1 @@
+The agent builds transcription-review/ and grading-review/ here for your exam. Each app must include launch instructions for your operating system. Generated apps are ignored by Git because they may embed private exam content. The public fictional demos live in ../docs/demo/.
