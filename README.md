@@ -24,7 +24,7 @@ These are working illustrative demos using entirely invented answers and submiss
 
 1. **Download or clone this repo** into a new folder on your computer. Open that folder in the Codex app, Claude Code, or a coding-agent app that can read local files, inspect images, run code, and build a local web app. No separate AI API key is required by this skeleton; your agent may need its own subscription and permission to install ordinary app dependencies.
 2. **Add your materials.** Put the exam as students saw it in `inputs/exams/`, answer keys in `inputs/answer_keys/`, and any existing rubric in `inputs/rubrics/`. Include every version. PDFs, Word files, and Markdown are fine; the agent should create readable working copies while preserving originals.
-3. **Scan the tests however you like.** A scanner is great. A phone plus Dropbox or Google Drive also gets photos onto your computer quickly. Use an anonymous test ID on each paper, omit the cover page with the student's name, and keep your name-to-ID list outside this folder. Put scans in `inputs/submission_scans/<version>/<test-id>/*.jpg`. Keep pages in capture order. [Folder and page-order details](inputs/submission_scans/README.md).
+3. **Scan the tests however you like.** A scanner is great. A phone plus Dropbox or Google Drive also gets photos onto your computer quickly. Put an anonymous test ID on the cover page and page 2, and don't scan the cover page with the student's name, and keep your name-to-ID list outside this folder. Put scans in `inputs/submission_scans/<version>/<test-id>/*.jpg`. Keep pages in capture order. [Folder and page-order details](inputs/submission_scans/README.md).
 4. **Tell your agent:**
 
    ```text
